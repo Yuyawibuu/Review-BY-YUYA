@@ -40,10 +40,10 @@ body .bg-success {
     align-items: center;
 }
 .button-link img {
-	width: 100px;
-	height: 100px;
+	width: 54px;
+	height: 54px;
 	object-fit: cover;
-    border-radius: 70px;
+    border-radius: 10px;
 }
 .button-link p, .badge {
 	font-weight: 500 !important;
