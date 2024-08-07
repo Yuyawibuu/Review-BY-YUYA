@@ -43,7 +43,7 @@ body .bg-success {
 	width: 150px;
 	height: 100px;
 	object-fit: cover;
-    border-radius: 10px;
+    border-radius: 70px;
 }
 .button-link p, .badge {
 	font-weight: 500 !important;
