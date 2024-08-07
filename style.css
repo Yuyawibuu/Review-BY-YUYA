@@ -25,7 +25,7 @@ body .bg-success {
 }
 .profile h3 {
 	font-size: 70px;
-	font-weight: 100;
+	font-weight: 50;
 	margin: 50px 0px 8px 0px;
 }
 .social-link a {
@@ -40,7 +40,7 @@ body .bg-success {
     align-items: center;
 }
 .button-link img {
-	width: 150px;
+	width: 100px;
 	height: 100px;
 	object-fit: cover;
     border-radius: 70px;
